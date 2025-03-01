@@ -1,0 +1,35 @@
+{
+  "name": "episodic-llm-mem",
+  "version": "1.0.0",
+  "description": "A Node.js library for episodic vector memory, inspired by human memory models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spockstein/episodic-llm-mem.git"
+  },
+  "keywords": [
+    "episodic",
+    "memory",
+    "vector",
+    "database",
+    "memory",
+    "long",
+    "context",
+    "LLM"
+  ],
+  "author": "spockstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spockstein/episodic-llm-mem/issues"
+  },
+  "homepage": "https://github.com/spockstein/episodic-llm-mem#readme",
+  "dependencies": {
+    "ml-distance": "^4.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
